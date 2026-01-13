@@ -84,4 +84,4 @@ MetaGPT is a multi agent AI framework that uses a tool system to provide agents 
 - Write comprehensive unit tests for path scanning, tool discovery, validation, integration, and edge cases
 - Support usage: `registry.register_tools_from_path("/path/to/custom/tools")`
 
-Reference PR #1116 for the original implementation, but implement from scratch based on the current codebase structure. Ensure the implementation is production ready, handles all edge cases, maintains backward compatibility, and follows the repository's coding standards.
+ Implement from scratch based on the current codebase structure. Ensure the implementation is production ready, handles all edge cases, maintains backward compatibility, and follows the repository's coding standards.
