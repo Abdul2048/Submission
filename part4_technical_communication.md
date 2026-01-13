@@ -1,7 +1,5 @@
 # Part 4: Technical Communication
 
-### Response
-
 I selected PR #1116 (Register tools from a path) from MetaGPT over other pull requests for several reasons that align with my technical background and learning objectives.
 
 **Selection Rationale:**
